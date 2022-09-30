@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm chivartz 🇧🇷 </h1> 
 <h3 align="center">I'm a beginner programmer, so don't judge me</h3>
   <p align="center"> <a href="https://twitter.com/chivartz" target="blank"><img src="https://img.shields.io/twitter/follow/chivartz?logo=twitter&style=for-the-badge" alt="chivartz" /></a> </p>
-─────────────────────────────────────────────────────────────────────────────────────────
+
 &nbsp;
 
 <h2>son mis pasiones</h2>
