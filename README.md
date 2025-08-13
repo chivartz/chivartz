@@ -1,6 +1,3 @@
-💻 Web, Python e MySQL
-
-
 ## Contato 
 
 - 📧 Email: coutoyy@gmail.com
